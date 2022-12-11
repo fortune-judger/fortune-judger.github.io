@@ -10,7 +10,7 @@
 5. 基金名称中后缀ABC的含义？
 
 ## 资源
-- [QF-web](https://fortune-judger-qf-web-main-page-z9x093.streamlit.app/)
+- [QF-web](https://fortune-judger-qf-web-main-page-21qphj.streamlit.app/)
 - [ChatGPT反向代理](https://gpt.chatapi.art/)：无需账号即可体验，偶尔token过期，作者会修复
 - [Palette-FM](https://palette.fm/)：AI调色
 
