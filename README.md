@@ -9,3 +9,8 @@
 - 在增发股票的时候，需不需要调整股价？公司能像基金一样主动调整股价，增加股票数量吗？
 5. 基金名称中后缀ABC的含义？
 
+## 资源
+[QF-web](https://fortune-judger-qf-web-main-page-z9x093.streamlit.app/)
+[ChatGPT反向代理](https://gpt.chatapi.art/)：无需账号即可体验，偶尔token过期，作者会修复
+[Palette-FM](https://palette.fm/)：AI调色
+
